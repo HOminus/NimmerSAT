@@ -1,0 +1,8 @@
+.vscode/*
+build/*
+
+benchmarks/2007SATcrafted/*
+benchmarks/2007SATindustrial/*
+benchmarks/formulas/*
+
+benchmarks/measurements/*
